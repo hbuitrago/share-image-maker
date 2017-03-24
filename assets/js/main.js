@@ -18,7 +18,7 @@ row.style.color = randomColor({
 	luminosity: 'light'
 });
 row.style.backgroundColor = randomColor({
-	luminosity: 'dark'
+	luminosity: 'light'
 });
 row.style.backgroundImage = "url(" + randImage + ")";
 
